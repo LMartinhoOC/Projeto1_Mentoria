@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2uM3nZZwC1DMcEWoVvpvSrvLFzNEF2+olDfATAdgm06V+oFnJSxzZNEgn3Twec//JUF++ifwj3UamY7WMVJGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco.marques\\Desktop\\Mentoria\\Projetos\\Projeto1_Luiz\\API_TESTE\\API_TESTE.API\\API_TESTE.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco.marques\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "C:\\Users\\marco.marques\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\marco.marques\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\marco.marques\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\marco.marques\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\marco.marques\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\marco.marques\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
